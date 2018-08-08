@@ -1,0 +1,24 @@
+{
+  "name": "types",
+  "version": "1.0.0",
+  "description": "Easy test your JavaScript element type",
+  "main": "types.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karkael64/types.git"
+  },
+  "keywords": [
+    "test",
+    "type",
+    "variable"
+  ],
+  "author": "Karakel <karkael@gmail.com> (https://github.com/karkael64)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karkael64/types/issues"
+  },
+  "homepage": "https://github.com/karkael64/types#readme"
+}

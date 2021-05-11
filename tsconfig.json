@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": ".",
+    "module": "esnext",
+    "target": "es2018",
+    "lib": ["es6", "esnext", "es2015", "dom"],
+    "sourceMap": true,
+    "declaration": true,
+    "alwaysStrict": true,
+    "moduleResolution": "node"
+  },
+  "include": ["src"],
+  "exclude": ["dist", "test"]
+}
